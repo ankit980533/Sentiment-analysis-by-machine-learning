@@ -1,2 +1,3 @@
-# video-chat-app
-A video chat is made using node js,ejs,peer to peer connection .
+# Sentiment anlaysis
+the analysis of sentiment is done by machine learning model afetr processing the data
+
